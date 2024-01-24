@@ -1,0 +1,51 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+#equipo{
+    background-color: #673ab7;
+    color: white;
+    text-align: center;
+    padding: 15px;
+
+}
+
+#equipo-imagen{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#entrenador{
+    text-align: center;
+    font-weight: bold;
+    color: #673ab7;
+}
+
+#jugadores{
+    border-collapse: collapse;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+}
+
+th{
+    text-align: center;
+    background-color: #673ab7;
+    color: white;
+    font-weight: bold;
+    padding: 4px;
+    border: solid black;
+}
+
+
+td{
+    text-align: center;
+    border: solid black;
+}
+ALEJANDRO ANTONIO CHAVERO JIMENEZ
+	
+14:45 (hace 0 minutos)
+	
+para ALEJANDRO
+	
